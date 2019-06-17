@@ -1,3 +1,10 @@
+
+# Remake of Max Mind's old project
+
+This project is in development, when free i will begin updating each .py file for all security professionals to enjoy a newer pygeoip with a newer documentation!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 # DEPRECATED
