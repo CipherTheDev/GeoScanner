@@ -5,7 +5,8 @@ all: test
 test:
 	@echo "Downloading test databases"
 	rm -rf maxmind-geoip-samples.tar.gz tests/data; mkdir -p tests/data
-	curl -s https://www.defunct.cc/maxmind-geoip-samples.tar.gz | tar -zx -C tests
+	curl -s https://www.defunct.cc/maxmind-geoip-samples.tar.gz | tar -zxf -C tests
+	@echo "Downloading finished"
 	
 	@echo "Testing local state"
 	@tox --version > /dev/null || (echo "Requires tox - install requirements.txt"; exit 1)
@@ -19,6 +20,6 @@ docs:
 clean:
 	@echo "Cleaning doc, test and cache files"
 	git clean -fd
-	find . -name *.pyc -delete
+	find . -name -type f *.pyc -delete
 	rm -rf pygeoip-* pygeoip.egg-info
 
