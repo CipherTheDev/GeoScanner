@@ -5,10 +5,11 @@ python:
   - "3.2"
   - "3.3"
   - "3.4"
+  - "3.6"
 install:
   - "pip install nose"
   - "pip install python-coveralls"
-  - "curl -s https://www.defunct.cc/maxmind-geoip-samples.tar.gz | tar -xzC tests/"
+  - "curl -s https://www.defunct.cc/maxmind-geoip-samples.tar.gz | tar -xzCvf tests/"
 script:
   - coverage run --source=pygeoip setup.py nosetests
 after_success:
