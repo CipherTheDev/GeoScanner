@@ -3,7 +3,7 @@ Pure Python GeoIP API
 
 This library is based on `Maxmind's GeoIP C API <https://github.com/maxmind/geoip-api-c>`__.
 
-Tested with Python version 2.6, 2.7, 3.2, 3.3 and 3.4.
+Tested with Python version 2.6, 2.7, 3.2, 3.3 ,3.4 and 3.6.
 
 Installation
 ------------
@@ -13,6 +13,8 @@ You can easily install pygeoip from PyPi.
 .. code:: python
 
     pip install pygeoip
+    
+    python -m install pygeoip
 
 Issues and Contribution
 -----------------------
