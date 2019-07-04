@@ -3,10 +3,8 @@
 
 This project is in development, when free i will begin updating each .py file for all security professionals to enjoy a newer pygeoip with a newer documentation!
 
-[![Constantly updated to a better version]
+[Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
 # DEPRECATED
 This project is no longer supported. Please consider using [Maxmind's GeoIP2 Python API](https://github.com/maxmind/GeoIP2-python).
 
