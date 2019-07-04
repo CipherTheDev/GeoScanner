@@ -1,7 +1,7 @@
 
 # Remake of Max Mind's old project
 
-This project is in development, when free i will begin updating each .py file for all security professionals to enjoy a newer pygeoip with a newer documentation!
+This project is in development, when free i will begin updating each .py file for all security professionals to enjoy a newer pygeoip with a newer documentation instead of the new one that requires a license.
 
 [Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
