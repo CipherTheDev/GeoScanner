@@ -148,6 +148,8 @@ class GeoIP(object):
                 chars = chars.decode(ENCODING)
                 if type(delim) is str:
                     delim = delim.decode(ENCODING)
+             #   if type(chars):
+                  #  chars.decode(ENCODING) work here more
 
             if delim == chars:
                 byte = self._fp.read(1)
