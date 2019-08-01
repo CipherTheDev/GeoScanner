@@ -29,4 +29,4 @@ Bug reports are done by [creating an issue on Github](https://github.com/applied
 
 ## Documentation
 
-For more information, [check out the documentation](http://pygeoip.readthedocs.org) over at Read the Docs.
+[New Documentation coming soon!](http://pygeoip.readthedocs.org) over at Read the Docs.
