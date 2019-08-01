@@ -5,7 +5,7 @@ This project is in development, when free i will begin updating each .py file fo
 
 [Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
-This project is no longer supported. Please consider using [Maxmind's GeoIP2 Python API](https://github.com/maxmind/GeoIP2-python).
+The following project is outdated but is now being updated constantly to allow cyber security consultants to easily use the API without the requirement of purchasing the Version 2.
 
 # Pure Python GeoIP API
 
