@@ -17,16 +17,26 @@ Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 and 3.6.
 
 ## Installation
 
-You can easily install pygeoip from PyPi.
+In order to install PyGeoIP, open up terminal and/or command prompt then type the following below.
 
 ```bash
 pip install pygeoip
 ```
+### Windows Installation
 
-## Issues and Contribution
+Soon there will be an executable that will aid in installing PyGeoIP.
+```
+Command Prompt:
 
-Bug reports are done by [creating an issue on Github](https://github.com/appliedsec/pygeoip/issues). If you want to contribute you can always [create a pull request](https://github.com/appliedsec/pygeoip/pulls) for discussion and code submission.
+easy_install pygeoip
+
+or,
+
+python -m pip install pygeoip
+
+pip install pygeoip (recommended)
+```
 
 ## Documentation
 
-[New Documentation coming soon!](http://pygeoip.readthedocs.org) over at Read the Docs.
+[New Documentation coming soon!](http://pygeoip.readthedocs.org) Old Documentation over at Read the Docs.
