@@ -1,5 +1,5 @@
 # Bootstrap manual for developers
-_Dependencies: tox, nose_
+_Dependencies: tox, nosetools
 
 ### Testing
 
@@ -23,3 +23,14 @@ This requires a machine with Python 2.6 - 3.3 installed and all dependencies men
 There's a Makefile doing all this for you.
 
     make test
+ 
+ ### Manual testing
+ 
+ In order to perform manual testing do the following below,
+ 
+ Go to the parent directory,
+ 
+ open Terminal or Command Prompt(Windows)
+ 
+ Type  in 
+ nosetools /pathoffile/file.py
