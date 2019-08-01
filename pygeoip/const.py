@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Copyright (c) 2010-2014 Jennifer Ennis, William Tisäter.
 
@@ -15,7 +14,15 @@ GNU General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/lgpl.txt>.
 """
+"""
+The following program is owned by Jennifer Ennis and  William Tisäter.
 
+Thank these people for the API,
+
+I am just recreating the old one into a better one that most professionals still use.
+I am nor the author and nor the one that owns the license.
+
+"""
 from platform import python_version_tuple
 
 PY2 = python_version_tuple()[0] == '2'
@@ -379,7 +386,7 @@ CONTINENT_NAMES = (
 )
 
 NETSPEED_NAMES = (
-    'Unknown', 'Dial-up', 'Cable', 'Corporate'
+    'Unknown', 'Dial-up', 'Cable', 'Corporate' , 'Personal'
 )
 
 # storage / caching flags
@@ -432,4 +439,5 @@ US_OFFSET = 1
 CANADA_OFFSET = 677
 WORLD_OFFSET = 1353
 FIPS_RANGE = 360
-ENCODING = 'iso-8859-1'
+ENCODING = ['iso-8859-1', 'UTF-8' , 'UTF-16' , 'UTF-32']
+
