@@ -1,5 +1,11 @@
 # ChangeLog for pygeoip
 
+### Release 0.3.3
+* Fixed: Improved Unicode handling when displaying data(old pygeoip issue)
+* Support: Tested on Python 2.7.14 and 3.7, works on both
+* License: Soon to be changed to MIT
+* More to come every week
+
 ### Release 0.3.2
 
 * New: Support for Python 3.4
