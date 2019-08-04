@@ -5,13 +5,14 @@ This project is in development, when free i will begin updating each .py file fo
 
 [Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
-The following project is outdated but is now being updated constantly to allow cyber security consultants to easily use the API without the requirement of purchasing the Version 2.
+The following project is being updated constantly to allow cyber security consultants to easily use the API without the requirement of purchasing the Version 2.
 
+It will however have a different database and/or syntax to it.
 # Pure Python GeoIP API
 
-This library is based on [Maxmind's GeoIP C API](https://github.com/maxmind/geoip-api-c).
+This is entirely based on the original PyGeoIP [PyGeoIP](https://github.com/appliedsec/pygeoip)
 
-Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 and 3.6.
+Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 ,3.6 and 3.7.
 
 [![Coverage Status](https://coveralls.io/repos/appliedsec/pygeoip/badge.png)](https://coveralls.io/r/appliedsec/pygeoip) [![Downloads](https://pypip.in/d/pygeoip/badge.png)](https://crate.io/packages/pygeoip)
 
