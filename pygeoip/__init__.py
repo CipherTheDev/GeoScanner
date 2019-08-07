@@ -244,10 +244,7 @@ class GeoIP(object):
 
     def _get_org(self, ipnum):
         """
-        Seek and return organization or ISP name for ipnum.
-        Return org/isp name.
-
-        :arg ipnum: Result of ip2long conversion
+        Returns an organisation's name and/or data
         """
         seek_org = self._seek_country(ipnum)
         if seek_org == self._databaseSegments:
@@ -312,8 +309,7 @@ class GeoIP(object):
 
     def _get_record(self, ipnum):
         """
-        Populate location dict for converted IP.
-        Returns dict with numerous location properties.
+        Returns a dictionary of IP geo graphical location.
 
         :arg ipnum: Result of ip2long conversion
         """
@@ -336,7 +332,8 @@ class GeoIP(object):
             'dma_code': 0,
             'area_code': 0,
             'metro_code': None,
-            'postal_code': None
+            'postal_code': None #work here to add a house numbering functionality
+            #'house-code': None
         }
 
         latitude = 0
