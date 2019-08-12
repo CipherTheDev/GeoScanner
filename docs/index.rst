@@ -12,16 +12,12 @@ You can easily install pygeoip from PyPi.
 
 .. code:: python
 
-    pip install pygeoip
-
+    pip install GeoIP
+    easy_install GeoIP
 Issues and Contribution
 -----------------------
 
-Bug reports are done by `creating an issue on
-Github <https://github.com/appliedsec/pygeoip/issues>`__. If you want to
-contribute you can always `create a pull
-request <https://github.com/appliedsec/pygeoip/pulls>`__ for discussion
-and code submission.
+###Soon to be updated.
 
 Documentation
 -------------
