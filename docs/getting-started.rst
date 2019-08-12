@@ -1,10 +1,7 @@
 Getting Started
 ===============
+In order to get started with GeoScanner, you'll need the following prerequites.
 
-Create your GeoIP instance with appropriate access flag. ``STANDARD``
-reads data from disk when needed, ``MEMORY_CACHE`` loads database into
-memory on instantiation and ``MMAP_CACHE`` loads database into memory
-using mmap.
 
 .. code:: python
 
