@@ -79,7 +79,14 @@ country_dict = {
         '05': 'Australia/South',
         '06': 'Australia/Tasmania',
         '07': 'Australia/Victoria',
-        '08': 'Australia/West'
+        '08': 'Australia/West',
+        '09': 'Australia/Central'
+
+""""
+NOTICE:
+
+THE API MAY HAULT DUE TO THE CONSTANT UPDATES.
+"""
     },
     'AW': 'America/Aruba',
     'AX': 'Europe/Mariehamn',
