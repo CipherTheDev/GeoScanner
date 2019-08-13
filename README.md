@@ -3,6 +3,8 @@
 
 This project is in development, when free i will begin updating each .py file for all security professionals to enjoy a newer pygeoip with a newer documentation instead of the new one that requires a license.
 
+## This project will soon have it's own method  of tracking people
+
 [Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
 The following project is being updated constantly to allow cyber security consultants to easily use the API without the requirement of purchasing the Version 2.
