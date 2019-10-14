@@ -603,3 +603,10 @@ class GeoIP(object):
         """
         addr = self._gethostbyname(hostname)
         return self.time_zone_by_addr(addr)
+    
+    def time_zone_by_code(self , hostname):
+        """
+        Soon to be updated with better code
+        """
+        addr = self._gethostbyname(hostname)
+        return self.time_zone_by_name(addr)
