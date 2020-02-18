@@ -760,3 +760,9 @@ THE API MAY HAULT DUE TO THE CONSTANT UPDATES.
     'ZM': 'Africa/Lusaka',
     'ZW': 'Africa/Harare'
 }
+
+country_phone{
+    
+ '+1' : 'USA'   
+    
+}
