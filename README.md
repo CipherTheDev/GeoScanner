@@ -45,4 +45,4 @@ pip install pygeoip (recommended)
 
 ## Documentation
 
-[New Documentation coming soon!](http://pygeoip.readthedocs.org) Old Documentation over at Read the Docs.
+[New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within 60 days!
