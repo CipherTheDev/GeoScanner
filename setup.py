@@ -26,10 +26,10 @@ from pygeoip import __version__
 
 setup(name='pygeoip',
       version=__version__,
-      description='Pure Python GeoIP API',
+      description='GeoScanner 0.1.9',
       author='Jennifer Ennis',
       author_email='zaylea@gmail.com',
-      maintainer='William Tisäter',
+      maintainer='Parsa Zarrin',
       maintainer_email='william@defunct.cc',
       url='https://github.com/appliedsec/GeoIP',
       classifiers=['Programming Language :: Python',
