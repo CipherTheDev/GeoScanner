@@ -23,3 +23,5 @@ class TestGeoIPTimeZoneFunctions(unittest.TestCase):
     def testTimeZoneByAddr(self):
         tz = self.gi.time_zone_by_addr('64.17.254.216')
         self.assertEquals(tz, 'America/Los_Angeles')
+    def testTimeZoneByIP(self):
+        #More to be added
