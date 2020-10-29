@@ -22,6 +22,13 @@ from datetime import date
 sys.path.insert(0, os.path.join('..'))
 import pygeoip
 
+"""
+Please note that, all these files, text and/or modules are created in a form that the slighlest modification without
+knowledge of Python itself will result in the api to hault and/or not peform properly.
+
+The code below is an update in progress.
+
+"""
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -204,7 +211,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'pygeoip.tex', u'pygeoip Documentation',
-   u'Jennifer Ennis, William Tisäter', 'manual'),
+   u'Jennifer Ennis, William Tisäter', 'Pastaboy2131', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -234,7 +241,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'pygeoip', u'pygeoip Documentation',
-     [u'Jennifer Ennis, William Tisäter'], 1)
+     [u'Jennifer Ennis, William Tisäter' , 'Pastaboy2131'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -248,8 +255,8 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'pygeoip', u'pygeoip Documentation',
-   u'Jennifer Ennis, William Tisäter', 'pygeoip',
-   'Pure Python API for Maxmind\'s binary GeoIP databases.',
+   u'Jennifer Ennis, William Tisäter', 'pygeoip', 'Pastaboy2131',
+   'Python API Based on MaxMind\'s PyGeoIP But more newer.',
    'Miscellaneous'),
 ]
 
@@ -264,3 +271,5 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+
