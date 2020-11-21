@@ -86,6 +86,11 @@ country_dict = {
 NOTICE:
 
 THE API MAY HAULT DUE TO THE CONSTANT UPDATES.
+
+'AU' : 'AU/Cook Island',
+    'AU' : 'Kangaroo Island',
+    'AU' : {
+    }
 """
     },
     'AW': 'America/Aruba',
