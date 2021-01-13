@@ -7,7 +7,7 @@ This project is in development, when free i will begin updating each .py file fo
 
 This means that professionals will be able to perform easier methods of tracking phones, laptops and related BYOD  devices.
 
-[!Constantly updated to a better version]
+[Constantly updated to a better version]
 ------------------------------------------------------------------------------------------------------------------------------------------
 The following project is being updated constantly to allow cyber security consultants to easily use the API without the requirement of purchasing the Version 2.
 
@@ -45,4 +45,4 @@ pip install pygeoip (recommended)
 
 ## Documentation
 
-[New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within 60 days!
+[New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within the final days!
