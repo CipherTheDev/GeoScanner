@@ -17,7 +17,14 @@ You can easily install pygeoip from PyPi.
 Issues and Contribution
 -----------------------
 
-###Soon to be updated.
+#In order to raise issues, please follow the following guidelines
+
+##Security Issues
+
+1. Go onto <https://github.com/pastaboy2131/GeoScanner/issues>
+2. Ensure to contain the #GEOSECURITY as a heading
+3. Provide Proof Of Concept (PoC) and date, time including as much as details if possible
+4. I will have it resolved first since it's the highest prioty 
 
 Documentation
 -------------
