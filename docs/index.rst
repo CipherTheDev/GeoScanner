@@ -1,4 +1,4 @@
-Pure Python GeoIP API
+Python GeoScanner API
 =====================
 
 This library is based on `Maxmind's GeoIP C API <https://github.com/maxmind/geoip-api-c>`__.
