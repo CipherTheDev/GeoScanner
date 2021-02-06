@@ -64,6 +64,7 @@ class TestGeoIPCityFunctions(unittest.TestCase):
 
         self.assertEqual(mem_record['city'], self.us_record_data['city'])
         self.assertEqual(mmap_record['city'], self.us_record_data['city'])
+        print('CACHE TEST COMPLETED')
 
     def testRecordByAddr(self):
         equal_keys = ('city', 'region_name', 'area_code', 'country_code3',
