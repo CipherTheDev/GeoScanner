@@ -46,3 +46,6 @@ pip install pygeoip (recommended)
 ## Documentation
 
 [New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within the final days!
+
+## Github webpage
+[New webpage launched!](https://pastaboy2131.github.io/GeoScanner/) Check it out!
