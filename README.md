@@ -43,6 +43,11 @@ python -m pip install GeoScanner
 pip install GeoScanner (recommended)
 ```
 
+### MAC Installatation
+```
+
+
+```
 ## Documentation
 
 [New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within the final days!
