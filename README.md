@@ -45,8 +45,12 @@ pip install GeoScanner (recommended)
 
 ### MAC Installatation
 ```
+Required Software: Python
 
+Open a VTY line on Terminal,
+python -m install GeoScanner
 
+TO BE UPDATED
 ```
 ## Documentation
 
