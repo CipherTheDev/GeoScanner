@@ -23,7 +23,7 @@ Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 ,3.6 and 3.7.
 
 ## Installation
 
-In order to install PyGeoIP, open up terminal and/or command prompt then type the following below.
+In order to install GeoScanner, open up terminal and/or command prompt then type the following below.
 
 ```bash
 pip install GeoScanner
