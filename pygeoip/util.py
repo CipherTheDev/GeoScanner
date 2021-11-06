@@ -21,7 +21,7 @@ You should also acknowledge the authors of this free API.
 
 import socket
 import binascii
-
+import exception
 try:
     from StringIO import StringIO
 except ImportError:
