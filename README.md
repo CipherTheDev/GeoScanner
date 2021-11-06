@@ -27,6 +27,7 @@ In order to install GeoScanner, open up terminal and/or command prompt then type
 
 ```bash
 pip install GeoScanner
+or: git clone https://github.com/pastaboy2131/GeoScanner
 ```
 ### Windows Installation
 
