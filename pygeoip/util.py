@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#bin/python
 """
 Copyright (c) 2010-2019 Jennifer Ennis, William Tisäter, Parsa Zarrin.
 
@@ -15,7 +16,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/lgpl.txt>.
 
-You should also achnoledge the authors of this free API.
+You should also acknowledge the authors of this free API.
 """
 
 import socket
@@ -47,4 +48,6 @@ def str2fp(data):
 
     :arg data: String data to transform
     """
-    return BytesIO(bytearray(data, const.ENCODING)) if const.PY3 else StringIO(data)
+    return BytesIO(bytearray(data, const.ENCODING)) 
+    if const.PY3
+    else StringIO(data)
