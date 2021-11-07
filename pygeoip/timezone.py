@@ -764,10 +764,13 @@ THE API MAY HAULT DUE TO THE CONSTANT UPDATES.
     'ZA': 'Africa/Johannesburg',
     'ZM': 'Africa/Lusaka',
     'ZW': 'Africa/Harare'
-}
+},
 
-country_phone{
-    
- '+1' : 'USA'   
-    
+country_phone = {
+
+ '+1' : 'USA',
+ '+86' : '',
+ '+61' : 'Australia',
+ '+91' : 'Iran'
+
 }
