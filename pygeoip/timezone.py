@@ -769,8 +769,12 @@ THE API MAY HAULT DUE TO THE CONSTANT UPDATES.
 country_phone = {
 
  '+1' : 'USA',
+ '+1' : 'American Samoa',
+ '+1' : 'Anguilla',
+ '+1' : 'Antigua and Barbuda',
  '+86' : '',
  '+61' : 'Australia',
- '+91' : 'Iran'
+ '+91' : 'Iran',
+ '' : ''
 
 }
