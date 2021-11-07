@@ -48,6 +48,4 @@ def str2fp(data):
 
     :arg data: String data to transform
     """
-    return BytesIO(bytearray(data, const.ENCODING)) 
-    if const.PY3
-    else StringIO(data)
+    return BytesIO(bytearray(data, const.ENCODING)) return BytesIO(bytearray(data, const.ENCODING)) if const.PY3 else StringIO(data)
