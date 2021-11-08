@@ -775,6 +775,7 @@ country_phone = {
  '+86' : '',
  '+61' : 'Australia',
  '+91' : 'Iran',
- '' : ''
+ '+93' : 'Afghanistan',
+  '+355' : 'Albania'
 
 }
