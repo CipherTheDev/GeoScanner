@@ -772,10 +772,12 @@ country_phone = {
  '+1' : 'American Samoa',
  '+1' : 'Anguilla',
  '+1' : 'Antigua and Barbuda',
- '+86' : '',
+ '+54' : 'Argentina',
  '+61' : 'Australia',
  '+91' : 'Iran',
  '+93' : 'Afghanistan',
-  '+355' : 'Albania'
-
+ '+355' : 'Albania',
+ '+213' : 'Algeria',
+ '+376' : 'Andorra',
+ '' : ''
 }
