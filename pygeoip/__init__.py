@@ -23,7 +23,7 @@ import socket
 import codecs
 from math import floor
 from threading import Lock
-
+import date
 try:
     import mmap
 except ImportError:  # pragma: no cover
@@ -605,8 +605,11 @@ class GeoIP(object):
         return self.time_zone_by_addr(addr)
     
     def time_zone_by_code(self , hostname):
+        
         """
-        Soon to be updated with better code
+        date = datetime.now()
+        
+        Soon to be updated with full code
         """
         addr = self._gethostbyname(hostname)
         return self.time_zone_by_name(addr)
