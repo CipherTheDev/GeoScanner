@@ -1,4 +1,4 @@
-Pure Python GeoIP API
+GeoScanner API forked on MaxMind's old pygeoip.
 =====================
 
 This library is based on `Maxmind's GeoIP C API <https://github.com/maxmind/geoip-api-c>`__.
@@ -8,7 +8,7 @@ Tested with Python version 2.6, 2.7, 3.2, 3.3 ,3.4 , 3.6, ,3.7 , 3.8 and 3.9.
 Installation
 ------------
 
-You can easily install pygeoip from PyPi.
+You can easily install GeoScanner from PyPi.
 
 .. code:: python
 
@@ -20,10 +20,8 @@ Issues and Contribution
 -----------------------
 
 Bug reports are done by `creating an issue on
-Github <https://github.com/appliedsec/pygeoip/issues>`__. If you want to
-contribute you can always `create a pull
-request <https://github.com/appliedsec/pygeoip/pulls>`__ for discussion
-and code submission.
+
+TO BE UPDATED :)
 
 Documentation
 -------------
