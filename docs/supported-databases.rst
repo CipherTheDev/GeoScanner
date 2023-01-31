@@ -1,6 +1,6 @@
 Supported Databases
 ===================
-Below are outdated.
+
 
 Soon will be updated.
 +----------------+------+------+-----------------------------------------------------------------------------------+
@@ -17,6 +17,4 @@ Soon will be updated.
 | Region         | Yes  |      | `MaxMind Region product page <http://www.maxmind.com/en/geolocation_landing>`__   |
 +----------------+------+------+-----------------------------------------------------------------------------------+
 | ASN            | Yes  | Yes  | `MaxMind ASN product page <http://dev.maxmind.com/geoip/legacy/geolite>`__        |
-+----------------+------+------+-----------------------------------------------------------------------------------+
-| Netspeed       | Yes  |      | `MaxMind Netspeed product page <http://www.maxmind.com/en/netspeed>`__            |
 +----------------+------+------+-----------------------------------------------------------------------------------+
