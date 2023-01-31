@@ -18,7 +18,7 @@ This is entirely based on the original PyGeoIP [PyGeoIP](https://github.com/appl
 
 Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 ,3.6, 3.7, 3.8 and 3.9
 
-[![Coverage Status](https://coveralls.io/repos/appliedsec/pygeoip/badge.png)](https://github.com/pastaboy2131/GeoIP) 
+[![Coverage Status](https://coveralls.io/repos/appliedsec/pygeoip/badge.png)](https://github.com/pastaboy2131/GeoScanner) 
 [![Downloads](https://pypip.in/d/pygeoip/badge.png)](https://crate.io/packages/pygeoip)
 
 ## Installation
@@ -37,9 +37,9 @@ Command Prompt:
 
 easy_install GeoScanner
 
-or,
+or
 
-python -m pip install GeoScanner
+python -m pip install GeoScanner,
 
 pip install GeoScanner (recommended)
 ```
@@ -49,9 +49,9 @@ pip install GeoScanner (recommended)
 Required Software: Python
 
 Open a VTY line on Terminal,
-python -m install GeoScanner
+python -m install GeoScanner,
 
-TO BE UPDATED
+usage of Anaconda will ease the installation as well.
 ```
 ## Documentation
 
