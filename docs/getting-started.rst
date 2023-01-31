@@ -5,8 +5,8 @@ In order to get started with GeoScanner, you'll need the following prerequites.
 
 .. code:: python
 
-    >>> import pygeoip
-    >>> gi = pygeoip.GeoIP('GeoIP.dat')
+    >>> import GeoScanner
+    >>> gi = GeoScanner.GeoIP('GeoIP.dat')
     >>> gi.country_name_by_addr('64.233.161.99')
     'United States'
 
@@ -15,7 +15,7 @@ Country Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIP.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIP.dat')
     >>> gi.country_code_by_name('google.com')
     'US'
     >>> gi.country_code_by_addr('64.233.161.99')
@@ -25,7 +25,7 @@ Country Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPv6.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPv6.dat')
     >>> gi.country_code_by_addr('2a00:1450:400f:802::1006')
     'IE'
 
@@ -34,7 +34,7 @@ Region Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPRegion.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPRegion.dat')
     >>> gi.region_by_name('apple.com')
     {'region_code': 'CA', 'country_code': 'US'}
 
@@ -43,7 +43,7 @@ City Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPCity.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPCity.dat')
     >>> gi.record_by_addr('64.233.161.99')
     {
         'city': u'Mountain View',
@@ -68,7 +68,7 @@ Organization Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPOrg.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPOrg.dat')
     >>> gi.org_by_name('dell.com')
     'Dell Computer Corporation'
 
@@ -77,7 +77,7 @@ ISP Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPISP.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPISP.dat')
     >>> gi.isp_by_name('cnn.com')
     'Turner Broadcasting System'
 
@@ -86,6 +86,6 @@ ASN Lookup
 
 .. code:: python
 
-    >>> gi = pygeoip.GeoIP('GeoIPASNum.dat')
+    >>> gi = GeoScanner.GeoIP('GeoIPASNum.dat')
     >>> gi.asn_by_name('cnn.com')
     'AS5662 Turner Broadcasting'
