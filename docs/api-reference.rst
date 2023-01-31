@@ -1,7 +1,7 @@
 API Reference
 =============
 
-.. currentmodule:: pygeoip
+.. currentmodule:: GeoScanner
 
 GeoIP
 -----
