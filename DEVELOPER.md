@@ -16,7 +16,7 @@ https://www.defunct.cc/maxmind-geoip-samples.tar.gz (17 MB)
 
 Extract the tarball in the tests directory and run `tox` from the root directory.
 
-This requires a machine with Python 2.6 - 3.3 installed and all dependencies mention in the header.
+This requires a machine with Python 2.6 - 3.6 installed and all dependencies mention in the header.
 
 ### TL;DR
 
@@ -33,4 +33,15 @@ There's a Makefile doing all this for you.
  open Terminal or Command Prompt(Windows)
  
  Type  in 
- nosetools /pathoffile/file.py
+ 
+ `nosetools /path/file.py`
+
+### Automated testing
+
+In order to the newly perform automated testing,
+
+ensure setup is imported and other dependencies are as well
+
+in your new Python script do the following,
+
+`assert_equals(function)` - sample script will be given in docs directory that tests some of GeoScanner.
