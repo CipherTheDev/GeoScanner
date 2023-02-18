@@ -1,5 +1,11 @@
 # ChangeLog for pygeoip
 
+### Release 0.3.4
+* Updated: PyPi: Now you can see and install directly through pip
+* Support: Tested on Python 3.8 - 3.9
+* Documentation: Being written
+* More to come
+
 ### Release 0.3.3
 * Fixed: Improved Unicode handling when displaying data(old pygeoip issue)
 * Support: Tested on Python 2.7.14 and 3.7, works on both
