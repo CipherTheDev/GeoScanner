@@ -54,7 +54,7 @@ usage of Anaconda will ease the installation as well.
 ```
 ## Documentation
 
-[New Documentation coming soon!](http://pygeoip.readthedocs.org) New Documentation coming out  within the final days!
+[New Documentation coming soon!]
 
 ## Github webpage
 [New webpage launched!](https://pastaboy2131.github.io/GeoScanner/) Check it out!
