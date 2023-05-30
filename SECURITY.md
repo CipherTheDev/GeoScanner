@@ -6,6 +6,7 @@ Below are the supported versions for security patches
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 3.9.6   | :white_check_mark: |
 | 3.3.3   | :white_check_mark: |
 | 3.0.2   | :white_check_mark: |
 | 3.0.1   | :x:                |
