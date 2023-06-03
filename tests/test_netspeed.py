@@ -16,3 +16,16 @@ class TestGeoIPNetspeedFunctions(unittest.TestCase):
     def testNetSpeedByAddrWrapper(self):
         netspeed = self.gi.netspeed_by_addr('17.172.224.47')
         self.assertEqual(netspeed, 'Corporate')
+
+    def testPhoneLineByIpAddr(self):
+        pass
+        
+
+  """
+  THIS MODULE IS OUTDATED AND IS UNDER REVIEW
+  
+  Author: PZ
+  
+  Date: 06/04/2023
+  
+  """
