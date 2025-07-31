@@ -16,7 +16,7 @@ It will however have a different database and/or syntax to it.
 
 This is entirely based on the original [PyGeoIP](https://github.com/appliedsec/pygeoip)
 
-Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 ,3.6, 3.7, 3.8 and 3.9
+Tested with Python version 2.6, 2.7, 3.2, 3.3 , 3.4 ,3.6, 3.7, 3.8, 3.9, 3.10 and 3.11
 
 [![Coverage Status](https://coveralls.io/repos/appliedsec/pygeoip/badge.png)](https://github.com/pastaboy2131/GeoScanner) 
 
