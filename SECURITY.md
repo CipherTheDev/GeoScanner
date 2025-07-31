@@ -16,7 +16,7 @@ Below are the supported versions for security patches
 
 You may report a vulnerbility if it affects on how the API works in a whole.
 
-This may include such as  Buffer Overflows and/or dangerous ones that may effect you as well.
+This may include such as  Buffer Overflows and/or Network security related ones that may effect you as well.
 
 In order to report a vulnerbility please open an issue discussing it fully and/or how you discovered it.
 #### Vulnerbility updates
